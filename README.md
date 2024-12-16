@@ -39,7 +39,7 @@ Pretende-se gerir uma conta de e-email. Cada e-mail contém o endereço de quem 
         MailBox[address=?, inboxCount=?, sendCount=?, spamCount=?]
         ```
 
-    - Devolver os emails diferentes caixas (deve retornar cópias das coleções);
+    - Devolver os emails das diferentes caixas em métodos respetivos (deve retornar cópias das coleções);
 
     - Criar uma lista de e-mails recebidos que têm por origem um dado endereço de remetente.
 
